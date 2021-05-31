@@ -1,2 +1,4 @@
 Anahi de los Angeles
 Naranjo Lopez
+java, python, php, javascript, jquery
+sql server, oracle
